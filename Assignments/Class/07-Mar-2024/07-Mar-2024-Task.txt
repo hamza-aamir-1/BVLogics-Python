@@ -1,0 +1,41 @@
+#Write a Programme to get 2 numbers from user and 
+#compare if value1 is greator then value2
+
+
+#make a programme to check if number if 
+#greator then or less than 10  
+
+#use logical operator and check if the number 
+# entered by user is in between 20 and 50
+
+# through using any operator check if entered number 
+# is divisible by 7 or not ?
+
+## write a program and check if the user age is 
+#eligible for senior citizenship or not ?
+
+#write a programme and check what datatype has user 
+#entered in input 
+
+#write a programme to check if user entered positive
+#negative or Zero number
+
+##programme to take temperature by user and print 
+# "cold" , "moderate" "hot" according to entered input
+
+##write a python programme get marks 
+# from students and grade them A+(+95), A(+80),
+# B(+75), C(+60), D (+45) and
+# fail (-45)
+
+##programme for check that if 
+# number is Prime or not?
+
+##Programme to check if the entered year
+# is leap year or not ?
+
+#Write a Python program that takes a month 
+# number as input and prints the corresponding
+# season. For example, if the input is 3, 
+# print "Spring", if it's 6, print "Summer", 
+# if it's 9, print "Fall", and if it's 12, print "Winter".
